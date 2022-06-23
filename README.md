@@ -1,6 +1,6 @@
 - 👋 Hi, I’m goglik @goglikS
 - 👀 I’m interested in React Js & Mobile 📱 App Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React JS & React Native
 - 📫 My Email - gogliks98@gmail.com
 
 <!---
